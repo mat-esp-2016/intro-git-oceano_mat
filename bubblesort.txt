@@ -1,0 +1,4 @@
+1°) Dispor as cartas aleatoreamente, definindo posicionamento em escala numérica de 1 a n.
+2°) Iniciando pela posição 1, fixe-a e a compare as demais cartas, uma a uma, em ordem crescente, iniciando pela carta posterior a da posição primeiramente escolhida. Mantenha as cartas em suas respectivas posições, caso a carta situada mais a esquerda possua o menor valor numérico, caso contrario troque-as de posição, mantendo a carta de menor valor numérico na posição mais a esquerda. Repita o passo com as demais cartas.
+3°) Repita o processo com todas as cartas na ordem das posições.
+4°) Conclua o experimento comparando a carta na posição n-1 com a carta situada na posição n.
