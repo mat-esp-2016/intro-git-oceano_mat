@@ -4,4 +4,4 @@ Para carta i indo de 1 até n, de 1 em 1:
 Desvirar a carta i e a carta i+1
 Se o valor da carta i > valor da carta i+1
 Troque-as de lugar
-Virar a carta i e a carta i+1
+Virar a carta i e a carta i+1.
